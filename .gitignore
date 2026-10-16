@@ -1,0 +1,13 @@
+# IDE
+/.metadata/
+/.settings/
+
+# Binary
+bin
+InfoBases
+tools
+examples
+doc
+src/Configuration/ParentConfigurations.bin
+src/Configuration/ParentConfigurations
+src/Configuration/Configuration.distr

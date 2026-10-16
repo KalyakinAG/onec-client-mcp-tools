@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1041b6ba-c783-43a0-b087-4e08f3898a7d">
+  <producedTypes>
+    <objectType typeId="0f3712aa-ecd1-4c81-866a-d304b9f7cbec" valueTypeId="b7c85d36-021c-4846-a92f-47363bf2502d"/>
+    <managerType typeId="9d75db5f-7e84-4871-9fd9-8c53c95bb138" valueTypeId="79426b1b-92ab-477b-be78-069a5c4f43aa"/>
+  </producedTypes>
+  <name>client_mcp_tools</name>
+  <synonym>
+    <key>ru</key>
+    <value>client mcp tools</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.client_mcp_tools.Form.Форма</defaultForm>
+  <forms uuid="3fae3ad7-2074-4206-9fca-5b87b741ba63">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment>MCP-инструмент evaluate_expression</comment>
+  </forms>
+</mdclass:DataProcessor>
